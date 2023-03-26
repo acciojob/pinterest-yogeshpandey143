@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+.container{
+	display:flex;
+}
+.container img{
+	
+	width:50%;
+}
+
+.text-container{
+  text-align:center;
+	padding:5px;
+
+}
+.btn{
+	background:red;
+	color:white;
+	border:none;
+	border-radius:3px;
+	
+}
+
