@@ -9,7 +9,9 @@
 
 .text-container{
   text-align:center;
-	padding:5px;
+	position: relative;
+	right:30px;
+	padding:5%;
 
 }
 .btn{
